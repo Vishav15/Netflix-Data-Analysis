@@ -6,6 +6,7 @@ This project involves analyzing a Netflix dataset using Python (pandas and SQL),
 Removed or handled null values
 Standardized column formats (e.g., date_added, duration)
 Resolved data type mismatches (e.g., year to integer)
+
 ✅ Data Querying
 Used sqlite3 and pandas.read_sql() to run SQL queries on the dataset
 Extracted insights like:
@@ -13,11 +14,13 @@ Number of shows per year
 Movies vs TV shows distribution
 Country-wise production frequency
 Duration patterns by content type
+
 ✅ Dashboard (Power BI)
 Map of content distribution by country 🌍
 Line/bar chart showing release trends over the years 📈
 Comparison of durations across content types ⏱
 Filters by genre, country, and type
+
 🧰 Tools & Technologies Used
 Python (pandas, sqlite3)
 Power BI (interactive dashboards)
